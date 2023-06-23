@@ -30,9 +30,9 @@ url = "https://github.com/StrMnL"
 # name = "twitter"
 # url = "https://twitter.com/hotjuicee"
 
-[[params.social]]
-name = "email"
-url = "sitarui78@gmail.com"
+# [[params.social]]
+# name = "email"
+# url = "sitarui78@gmail.com"
 
 # [[params.social]]
 # name = "instagram"
