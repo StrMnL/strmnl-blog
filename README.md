@@ -2,6 +2,6 @@
 
 This is a README.MD and the website is **under construction**.
 
-<br>*If you see this page when you are visiting http://strml-blog.eu.org, it suggests that I didn't push the content of the website :)*
+*If you see this page when you are visiting http://strml-blog.eu.org, it suggests that I didn't push the content of the website :)*
 
 
