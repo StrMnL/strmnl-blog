@@ -1,7 +1,7 @@
-### Welcome to strml-blog.eu.org!
+**It is [strml-blog.eu.org](http://strml-blog.eu.org).**
 
-This is a test page and the website is **under construction**.
+This is a README.MD and the website is **under construction**.
 
-<br>Powered by Github Pages
+<br>*If you see this page when you are visiting http://strml-blog.eu.org, it suggests that I didn't push the content of the website :)*
 
 
