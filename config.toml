@@ -9,7 +9,7 @@ description = "My site description"
 authorImage = "/images/profile.png"
 paginate = 5 
 Title = "Starry Minnelli's Blog"
-content = "(*^▽^*) 你好！ "
+content = "(*^▽^*) Nice to meet you!"
 imageUrl = "/images/profile.png"
 
 # 添加新的社交图标
