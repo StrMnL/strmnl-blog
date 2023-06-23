@@ -1,2 +1,7 @@
-# About
-这是什么？这是一个静态博客。
+# Welcome to strml-blog.eu.org!
+
+This is a test page and the website is **under construction**.
+
+<br>Powered by Github Pages
+
+
