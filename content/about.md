@@ -1,21 +1,26 @@
 ---
-title: "About..."
+title: "About"
 date: 2023-06-23T21:10:04+08:00
 categories: []
 draft: false
 layout: about
 ---
 
-## 关于这个网站
+### 关于这个网站
+
+***
 
 突然心血来潮想建个博客。于是就有了这个。(^^
 
-考虑到只是整着玩的，也为了确保可访问性，所以最终使用了免费域名 + Github Pages + Hugo的方式。  
+考虑到只是整着玩的，也为了确保可访问性，所以最终使用了免费域名 + Github Pages + Hugo的方式。
+
 没有花一分钱，只花了一个下午时间（笑）
 
 现行域名可能会更换。网站仍在建设中。
 
-## 关于 Blogger
+### 关于 Blogger
+
+***
 
 斯塔瑞是也。
 
@@ -24,7 +29,9 @@ layout: about
 
 [My Bilibili Channel](https://b23.tv/5250T8l)
 
-## 关于"StrmL"和"StrMnL"？
+### 关于"StrmL"和"StrMnL"？
+
+***
 
 两者的共同部分“Str”，很明显就是“Starry”了。无需解释。（）
 
@@ -34,6 +41,8 @@ layout: about
 
 可能以后更多会使用第二个吧。
 
-## In the end
+### In the end
+
+***
 
 →→→[你已经知道会发生什么了，不要点了](https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4)←←←
