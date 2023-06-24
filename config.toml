@@ -3,6 +3,7 @@ languageCode = 'zh-cn'
 title = "StrMnL's Blog"
 theme = 'JuiceBar'
 
+
 [params]
 author = "StrMnL"
 description = "My site description"
