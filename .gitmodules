@@ -1,3 +1,3 @@
-[submodule "themes/JuiceBar"]
-	path = themes/JuiceBar
-	url = https://github.com/StrMnL/hugo-JuiceBar.git
+[submodule "themes/kagome"]
+	path = themes/kagome
+	url = https://github.com/StrMnL/hugo-theme-kagome.git
