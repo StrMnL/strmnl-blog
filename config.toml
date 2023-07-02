@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "StrMnL's Blog"
 theme = "kagome"
 paginate = 7
-copyright = "© 2023 <a href=\"https://github.com/StrMnL\">Starry Minnelli</a> All rights reserved."
+copyright = "© 2023 <a href=\"https://github.com/StrMnL\">Starry Minnelli</a> All rights reserved if not stated."
 hasCJKLanguage = true
 
 # 作者信息

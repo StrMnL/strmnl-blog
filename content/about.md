@@ -7,6 +7,11 @@ layout: about
 cover: "/images/posts/about/banner.jpg"
 ---
 
+封面Pixiv插画ID：9123056，画师：メディンキ。如有侵权请联系我以删除之。
+
+***
+
+
 ## 关于这个网站
 
 突然心血来潮想建个博客。于是就有了这个。(^^
