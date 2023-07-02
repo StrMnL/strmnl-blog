@@ -37,10 +37,15 @@ hasCJKLanguage = true
     # url = "/link"
     # weight = 0
    [[menu.main]]
+    identifier = "/tags"
+    name = "TAGS"
+    url = "/tags"
+    weight = 3
+   [[menu.main]]
     identifier = "/about"
     name = "ABOUT"
     url = "/about"
-    weight = 3
+    weight = 4
   
   # 底部社交图标
   [[menu.social]]

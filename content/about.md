@@ -4,6 +4,7 @@ date: 2023-06-23T21:10:04+08:00
 categories: []
 draft: false
 layout: about
+cover: "/images/posts/about/banner.jpg"
 ---
 
 ## 关于这个网站
