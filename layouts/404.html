@@ -25,7 +25,7 @@
       <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
     {{ end }}
 
-    {{ $title := printf "%s - %s" "Site stolen by Marisa" .Site.Title }}
+    {{ $title := printf "%s - %s" "Page stolen by Marisa" .Site.Title }}
     <title>{{- $title -}}</title>
 
     {{/* style */}}
