@@ -35,6 +35,13 @@
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
 
+  <!-- busuanzi -->
+  {{- if .Site.Params.busuanzi.enable -}}
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <meta name="referrer" content="no-referrer-when-downgrade">
+  {{- end -}}
+
+
   {{/* style */}}
   {{ $sass := resources.Get "scss/index/index.scss" }}
   {{ $options := dict "targetPath" "assets/css/style.min.css" "outputStyle" "compressed" }}
@@ -51,6 +58,4 @@
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
 
-  <!--Baidu-->>
-  <meta name="baidu-site-verification" content="codeva-yR0F10QWwp" />
 </head>

@@ -112,3 +112,6 @@ hasCJKLanguage = true
     autoplay = false
     loop = false
     mutex = true
+
+  [params.busuanzi]
+    enable = true
