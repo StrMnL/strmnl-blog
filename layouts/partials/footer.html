@@ -54,22 +54,19 @@
     <a href="https://github.com/miiiku/hugo-theme-kagome" target="_blank" rel="noopener noreferrer author">kagome</a>
   </p>
 
+  <!-- busuanzi -->
+  <p>
+    {{ if .Site.Params.busuanzi.enable -}}
+    <div class="busuanzi-footer">
+      <span id="busuanzi_container_site">自2023年7月7日以来，本站总访问量<span id="busuanzi_value_site_pv"></span>次，本站访客数<span id="busuanzi_value_site_uv"></span>人次。</span>
+    </div>
+    {{- end -}}
+  </p>
+
   <p>
     <a href="javascript:;" id="theme-light">🌞 {{ i18n "theme.light" }}</a>
     <a href="javascript:;" id="theme-dark">🌛 {{ i18n "theme.dark" }}</a>
     <a href="javascript:;" id="theme-auto">🤖️ {{ i18n "theme.auto" }}</a>
   </p>
-
-  <!-- busuanzi -->
-  {{ if .Site.Params.busuanzi.enable -}}
-  <div class="busuanzi-footer">
-    <span id="busuanzi_container_site_pv">
-      本站总访问量<span id="busuanzi_value_site_pv"></span>次
-    </span>
-    <span id="busuanzi_container_site_uv">
-      本站访客数<span id="busuanzi_value_site_uv"></span>人次
-    </span>
-  </div>
-  {{- end -}}
 
 </footer>
