@@ -21,11 +21,11 @@ hasCJKLanguage = true
     name = "HOME"
     url = "/"
     weight = 1
-  [[menu.main]]
-    identifier = "/posts"
-    name = "POSTS"
-    url = "/posts"
-    weight = 2
+  # [[menu.main]]
+    # identifier = "/posts"
+    # name = "POSTS"
+    # url = "/posts"
+    # weight = 2
   # [[menu.main]]
     # identifier = "/message"
     # name = "MESSAGE"
