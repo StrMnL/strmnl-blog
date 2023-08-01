@@ -33,6 +33,7 @@
     {{ $options := (dict "targetPath" "assets/css/404.min.css" "outputStyle" "compressed") }}
     {{ $style := $sass | resources.ToCSS $options | resources.Fingerprint "sha256" }}
     <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+    <style>p.prompt {color: black;text-align: center;line-height: normal;font-size: 16px;}</style>
 
     {{/* script */}}
     {{- $js := resources.Get "ts/404.ts" -}}
@@ -49,9 +50,7 @@
       <h1 class="text">404</h1>
       <h1 class="bg">404</h1>
     </div>
-
-    <p align="center"><font size="4"><b>Ayayaya... It seems that this page is stolen by Marisa.</b></font></p>
-
+    <p class="prompt"><b>Ayayaya... It seems that this page is stolen by Marisa.</b></p>
     <div class="btn-box">
       <a href="{{ .Site.BaseURL | safeURL }}" class="soft-size--primary soft-style--box soft-style--active">
         <svg class="icon icon-home" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg">
