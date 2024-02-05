@@ -36,7 +36,7 @@ menu:
 
 StrMnL是Starry Minnelli的简写。StrmL？忘了这个吧。（
 
-[My Bilibili Channel](https://b23.tv/5250T8l)
+<!-- [My Bilibili Channel](https://b23.tv/5250T8l) -->
 <br>
 <!--
 ## 关于"StrmL"和"StrMnL"？
@@ -50,3 +50,4 @@ StrMnL是Starry Minnelli的简写。StrmL？忘了这个吧。（
 ## In the end
 
 →→[u know the rules](https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4)←←
+

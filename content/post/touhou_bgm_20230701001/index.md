@@ -5,7 +5,7 @@ author: Starry
 date: 2023-07-01
 lastmod: 2023-07-21
 tags: [东方,音频,反编译]
-categories: [信息技术初步]
+categories: [计算机基础应用]
 # draft: false
 image: "cover.jpg"
 slug: "20230701001"

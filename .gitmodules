@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-stack"]
 	path = themes/hugo-theme-stack
 	url = https://github.com/StrMnL/hugo-theme-stack
+[submodule "static/midi"]
+	path = static/midi
+	url = https://github.com/StrMnL/strmnl-blog-midi

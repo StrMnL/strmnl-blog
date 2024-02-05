@@ -16,6 +16,7 @@ links:
 #            icon: link
 
 comments: false
+slug: links
 ---
 
 To use this feature, add `links` section to frontmatter.
