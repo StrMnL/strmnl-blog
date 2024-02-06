@@ -18,6 +18,18 @@ menu:
 封面来源于Pixiv（插画ID：62620708），画师：ろけ（ID：946783），侵删。
 ***
 
+
+## 20240206
+
+- 网站内容
+
+    - midi文件从[https://blog.strmnl.top/midi](https://blog.strmnl.top/midi)迁移至[https://midi.strmnl.top](https://midi.strmnl.top)。
+
+        - 现在midi文件不再是网站blog部分的静态内容。
+
+    - 更新了midi的链接。
+
+
 ## 20240205b
 - 网站内容
 

@@ -38,7 +38,7 @@ MIDI暂未上传　[原曲还原](https://www.bilibili.com/video/BV1K8411b7tu)
 
 #### 黑市无处不在[（闇市場は場所を選ばない）](https://thwiki.cc/黑市无处不在)
 
-[MIDI下载](/midi/th185_04.mid)　[原曲还原](https://www.bilibili.com/video/BV1b642137V3)
+[MIDI下载](https://midi.strmnl.top/touhou/th185/th185_04.mid)　[原曲还原](https://www.bilibili.com/video/BV1b642137V3)
 
 参考配器：
     
