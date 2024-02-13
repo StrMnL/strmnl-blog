@@ -1,9 +1,9 @@
-baseurl: https://example.com
+baseurl: https://blog.strmnl.top
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
 title: StrMnL's Tiny Nest
-copyright: Starry Minnelli
+copyright: Starry Minnelli, All Rights Reserved.
 
 languages:
 #    en:

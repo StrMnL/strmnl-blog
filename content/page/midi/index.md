@@ -58,8 +58,8 @@ Channel|音源和音色|备注
 1|Retrologue Pristine Bell|无
 2|SD-90 St.Strings|Solo Set 049 000
 3|SD-90 Celtic Ens|Special 2 Set 052
-4|Trilian Juno Phat Philter|部分较旧的音源考据中误标为Trilian Noctavia Bass Station
-5|Trilian TR-Violent 101|音色自带琶音预设，将midi中含断音的音符改为长音就会自动演奏（或者可以试着关掉琶音器）
+4|Trilian TR-Juno Phat Philter|部分较旧的音源考据中误标为Trilian Noctavia Bass Station
+5|Trilian Violent 101|音色自带琶音预设，将midi中含断音的音符改为长音就会自动演奏（或者可以试着关掉琶音器）
 10|Groove Agent Dam Hard|无
 ---|SD-90 Flute vib|Solo Set 074 000，midi中遗漏了，应该是叠在Celtic Ens上的
 ---|音・辞典 VOL.3 砂浜で波が砕ける|A3_05042.wav，可能做了裁剪和变速变调
