@@ -1,0 +1,23 @@
+{{- $title := .Title -}}
+{{- $siteTitle := .Site.Title -}}
+
+{{- if .IsHome -}}
+    <!-- for home pages -->
+    {{ $title = $siteTitle}}
+    
+{{else if eq .Kind "term"}}
+    <!-- for term pages -->
+    <!-- {TAXONOMY_TYPE}: {TAXONOMY_TERM} | {SITE_TITLE} -->
+    {{ $title = slice (title .Data.Singular) " “" $title "”"}}
+    {{ $title = $title | append " | " $siteTitle }}
+    {{ $title = delimit $title "" }}
+
+{{- else -}}
+    <!--for page, section & taxonomy pages -->
+    <!-- {TITLE} | {SITE_TITLE} -->
+    {{ $title = slice $title " | " $siteTitle}}
+    {{ $title = delimit $title "" }}
+
+{{- end -}}
+
+{{ return $title }}

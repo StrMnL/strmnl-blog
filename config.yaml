@@ -1,7 +1,7 @@
 baseurl: https://blog.strmnl.top
 languageCode: zh-cn
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: StrMnL's Tiny Nest
 copyright: Starry Minnelli, All Rights Reserved.
 
