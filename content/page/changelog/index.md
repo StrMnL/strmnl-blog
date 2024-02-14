@@ -2,7 +2,7 @@
 title: "网站的更新日志"
 description: 封面来源于Pixiv（插画ID：62620708），画师：ろけ（ID：946783），侵删。
 date: 2024-02-05
-lastmod: 2024-02-05T21:00:04+08:00
+lastmod: 2024-02-14T22:57:04+08:00
 categories: []
 draft: false
 image: "banner.jpg"

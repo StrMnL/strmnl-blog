@@ -2,7 +2,7 @@
 title: "关于"
 description: 封面Pixiv插画ID：9123056，画师：メディンキ。如有侵权请联系我以删除之。
 date: 2023-06-23
-lastmod: 2024-02-14T21:10:04+08:00
+lastmod: 2024-02-14T22:57:33+08:00
 categories: []
 draft: false
 image: "banner.jpg"
