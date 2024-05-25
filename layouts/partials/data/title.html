@@ -3,12 +3,14 @@
 
 {{- if .IsHome -}}
     <!-- for home pages -->
-    {{ $title = $siteTitle}}
+    {{ $title = "主页"}}
+    {{ $title = slice $title " | " $siteTitle}}
+    {{ $title = delimit $title "" }}
     
 {{else if eq .Kind "term"}}
     <!-- for term pages -->
     <!-- {TAXONOMY_TYPE}: {TAXONOMY_TERM} | {SITE_TITLE} -->
-    {{ $title = slice (title .Data.Singular) " “" $title "”"}}
+    {{ $title = slice $title }}
     {{ $title = $title | append " | " $siteTitle }}
     {{ $title = delimit $title "" }}
 
