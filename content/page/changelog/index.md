@@ -15,18 +15,30 @@ menu:
             icon: clock
 ---
 
+## 20240525
+
+- 布局
+
+    - 修改了页面标题的格式。
+
+- 特性
+
+    - 更新了构建使用的Hugo版本至 `0.126.1` 。
+    - 更新了构建使用的Stack主题版本至 `3.26.0` 。
+
+- 仓库
+
+    - 将 resources 路径移除，并加入 `.gitignore` 文件中。
+    - 将 public 路径加入 `.gitignore` 文件中。
+
+
+
 
 ## 20240214
 - 布局
 
-    - 覆盖了主题给出的`layouts/partials/data/title.html`，修改了页面标题的格式。
-
-        *主题给出的这一文件似乎工作不正确。显示分页页码的部分不起作用。*
-
-        *我不确定[issue](https://github.com/CaiJimmy/hugo-theme-stack/issues/941)写得是否规范（逃*
-
+    - 修改了页面标题的格式。
     - 修改了`config`中`paginate`的数目为10。
-
     - 在`assets/scss/custom.scss`中修改了代码块的样式。
 
 - 内容
