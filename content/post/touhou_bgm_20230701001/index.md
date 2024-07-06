@@ -22,7 +22,7 @@ toc: true
 
 <details>
 
-<summary>dji目录</summary>
+<summary>目录</summary>
 
 - [为什么BGM这么大——BGM音频部分的文件格式](#为什么bgm这么大bgm音频部分的文件格式)
 
