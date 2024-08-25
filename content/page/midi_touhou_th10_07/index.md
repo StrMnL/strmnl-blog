@@ -22,13 +22,13 @@ readingTime: false
 
 <summary>参考配器</summary>
 
-Channel|音源|预设|备注
+通道　|音源　　　　　　　　　　|预设　　　　　　　　　　　　|备注　　　　　　　　　　　　　　　　
 -------|----|----|----
 1|Super Quartet|Preset Piano -> Forte Grand|
 2|Super Quartet|Preset Piano -> Forte Grand|
 3|STUDIO Canvas SD-90|Full Stops|
-4|Virtual Guitarist Electric Edition|Rock - Modern|使用了 Loose Rider 和 5th Accent 预设
-5|Virtual Guitarist|Virtual Acoustic Guitar -> Ringaracka|使用了 Accent 预设
+4|Virtual Guitarist <br>Electric Edition|Rock - Modern|使用了 Loose Rider 和 5th Accent 预设
+5|Virtual Guitarist <br>Virtual Acoustic Guitar|Ringaracka|使用了 Accent 预设
 6|STUDIO Canvas SD-90|St.Strings|
 7|STUDIO Canvas SD-90|Romantic Tp|
 8|STUDIO Canvas SD-90|St.Brass|

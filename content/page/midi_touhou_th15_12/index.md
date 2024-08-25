@@ -20,15 +20,15 @@ readingTime: false
 
 <summary>参考配器</summary>
 
-Channel|音源|预设|备注
--------|----|----|---
+通道　|音源　　　　　　　　　　|预设　　　　　　　　　|备注　　　　　　　　　　　　
+-------|----|----|----
 1|Retrologue|Pristine Bell|
 2|STUDIO Canvas SD-90|St.Strings|
 3|STUDIO Canvas SD-90|Celtic Ens|
-4|Trilian|TR-Juno Phat Philter|并不是Noctavia Bass Station
-5|Trilian|Violent 101|将midi中的断音改为连续的长音可自动演奏琶音
+4|Trilian|TR-Juno Phat Philter|并不是 Noctavia Bass Station
+5|Trilian|Violent 101|将 MIDI 中的断音改为连续的长音可自动演奏琶音
 10|Groove Agent 4/5|Dam Hard|
----|Edirol SD-90|Flute vib|midi中遗漏了，应该是叠在Celtic Ens上的
+---|Edirol SD-90|Flute vib|MIDI 中遗漏了，应该是叠在 Celtic Ens 上的
 ---|音・辞典 VOL.3|砂浜で波が砕ける|A3_05042.wav，可能做了裁剪和变速变调
 
 </details>

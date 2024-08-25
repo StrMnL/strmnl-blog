@@ -20,7 +20,7 @@ readingTime: false
 
 <summary>参考配器</summary>
 
-Channel|音源|预设|备注
+通道　|音源　　　　　　　　　　|预设　　　　　　　　　|备注　　　　　　　　　　　　
 -------|----|----|----
 1|4Knob PopD|未知|
 2|4Knob PopD|未知|
