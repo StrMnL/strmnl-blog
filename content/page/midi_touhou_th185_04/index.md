@@ -8,7 +8,7 @@ toc: false
 readingTime: false
 ---
 
-**[下载 MIDI](https://midi.strmnl.top/touhou/th185/th185_04.mid)**　[返回上一级](javascript:history.back(-1))
+**[下载 MIDI](https://midi.strmnl.top/touhou/th185/th185_04.mid)**　[返回上一级](/midi)
 
 ### 说明
 
