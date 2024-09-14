@@ -19,7 +19,7 @@ menu:
 
 突然心血来潮想建个博客。于是就有了这个网站。(^^
 
-网站使用 [Hugo](https://gohugo.io) 构建的，托管于 [Github Pages](https://pages.github.com)。
+网站使用 [Hugo](https://gohugo.io) 构建，托管于 [Github Pages](https://pages.github.com)。
 
 使用的主题是 [Stack](https://github.com/CaiJimmy/hugo-theme-stack)。
 

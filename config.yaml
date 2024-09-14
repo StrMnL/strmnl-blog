@@ -11,20 +11,13 @@ languages:
 #        title: StrMnL's Tiny Nest
 #        weight: 2
 #        params:
-#            description: Here is Starry's Tiny Nest~
+#            description: Here is Starry's Tiny Nest.
     zh-cn:
         languageName: 简体中文
         title: StrMnL的栖息之所
         weight: 1
         params:
             description: 这里是斯塔瑞的小窝。
-#    ar:
-#        languageName: عربي
-#        languagedirection: rtl
-#        title: موقع تجريبي
-#        weight: 3
-#        params:
-#            description: وصف تجريبي
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -68,7 +61,7 @@ params:
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
@@ -155,9 +148,9 @@ params:
     widgets:
         homepage:
             - type: search
-#            - type: archives
-#              params:
-#                  limit: 5
+            - type: archives
+              params:
+                  limit: 5
             - type: categories
               params:
                   limit: 10
@@ -214,12 +207,6 @@ menu:
           url: https://github.com/StrMnL/
           params:
               icon: brand-github
-
-#        - identifier: twitter
-#          name: Twitter
-#          url: https://twitter.com
-#          params:
-#              icon: brand-twitter
 
         - identifier: bilibili
           name: Bilibili
