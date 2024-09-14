@@ -7,6 +7,7 @@ categories: []
 draft: false
 image: "banner.jpg"
 slug: about
+readingTime: false
 menu:
     main: 
         weight: 0

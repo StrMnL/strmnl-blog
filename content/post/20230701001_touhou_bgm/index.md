@@ -5,7 +5,7 @@ author: Starry
 date: 2023-07-01
 lastmod: 2023-07-24T00:00:00+08:00
 tags: [东方,音频技术,反编译]
-categories: [Description]
+categories: [varia]
 # draft: false
 image: "cover.jpg"
 slug: "20230701001"

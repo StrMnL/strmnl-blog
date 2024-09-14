@@ -1,7 +1,7 @@
 ---
-title: "Description"
-description: "说明性的内容"
-slug: "description"
+title: "Varia"
+description: "杂物。"
+slug: "varia"
 image: "cover.jpg"
 style:
     background: "#40abeb"

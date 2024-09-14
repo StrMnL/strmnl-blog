@@ -3,7 +3,7 @@ title: "不是装饰吗？——钢琴卷帘中的 MIDI 多通道编辑"
 description: "FL Studio 零碎小教程 #1"
 author: StrMnL
 date: 2024-06-08
-lastmod: 2023-06-08T20:00:00+08:00
+lastmod: 2024-06-08T20:00:00+08:00
 tags: [FL Studio, 音频技术]
 categories: [tutorial]
 # draft: false
