@@ -29,7 +29,7 @@ menu:
 
 斯塔瑞，Starry。
 
-全称Starry Minnelli，简写是 StrMnL（不是很规范的缩写）。
+全称Starry Monlark，简写是 StrMnL（不是很规范的缩写）。
 
 东方众。中国妖都人。音MADer。高中在读。  
 技术水平不高但是喜好在各种领域折腾的家伙。

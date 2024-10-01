@@ -1,16 +1,18 @@
 ---
-title: "摘编：如何克服完美主义"
-description: "认知方法研究 #1"
+title: "认知方法摘编：克服完美主义"
+description: "学习与认知方法研究 #1"
 author: StrMnL
-date: 2024-09-08
-lastmod: 2024-09-08T17:05:00+08:00
+date: 2024-09-14
+lastmod: 2024-09-14T17:05:00+08:00
 tags: [完美主义, 认知方法]
 categories: [cognitive]
-image: "cover.jpg"
+image: "cover.png"
 slug: "20240914/cognitive_01"
 series: [学习与认知方法研究]
 toc: true
 ---
+
+## 摘编
 
 <iframe src="https://www.bilibili.com/blackboard/html5mobileplayer.html?aid=1406657347&bvid=BV18r421T7gM&cid=1662342904&p=1&hideCoverInfo=1&hasMuteButton=1"
     scrolling="no"
@@ -23,6 +25,12 @@ toc: true
 
 摘自 Maki的完美算数教室的「数学与认知方法讲座」 [第140讲 如何克服完美主义](https://www.bilibili.com/video/BV18r421T7gM/)。
 
-因为和最近“利用不完美”的想法比较符合，遂摘编。
+因为和个人最近“利用不完美”的一些想法比较符合，遂摘编。
 
-![评论区 @栐陆离 的思维导图](mindmap.jpg)
+---
+
+## 总结
+
+借用评论区 [@栐陆离](https://space.bilibili.com/590191743) 的思维导图作为总结。
+
+![](mindmap.jpg)
