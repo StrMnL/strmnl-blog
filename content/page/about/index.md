@@ -27,7 +27,7 @@ menu:
 
 ## 关于 StrMnL
 
-斯塔瑞，Starry。
+斯塔瑞，Starry。小学时起的网名。
 
 全称Starry Monlark，简写是 StrMnL（不是很规范的缩写）。
 
