@@ -9,6 +9,7 @@ image: "cover.png"
 slug: "20240930/cognitive_02"
 series: [学习与认知方法研究]
 toc: true
+draft: true
 ---
 
 ## 摘编

@@ -2,7 +2,7 @@
 title: "关于"
 description: 封面Pixiv插画ID：9123056，画师：メディンキ。如有侵权请联系我以删除之。
 date: 2023-06-23
-lastmod: 2024-08-31T11:02:21+08:00
+lastmod: 2025-09-21T19:28:22+08:00
 categories: []
 draft: false
 image: "banner.jpg"
@@ -29,10 +29,10 @@ menu:
 
 斯塔瑞，Starry。小学时起的网名。
 
-全称Starry Monlark，简写是 StrMnL（不是很规范的缩写）。
+全称 Starry Monlark，简写是 StrMnL（不是很规范的缩写）。
 
-东方众。中国妖都人。音MADer。高中在读。  
-技术水平不高但是喜好在各种领域折腾的家伙。
+东方众。中国妖都人。音MADer。本科在读。  
+在每个领域水平都不高，不过音乐、计算机、某些亚文化圈子...诸如此类的东西都沾点的家伙。
 
 <!-- →→[u know the rules](https://vdse.bdstatic.com//192d9a98d782d9c74c96f09db9378d93.mp4)←← -->
 

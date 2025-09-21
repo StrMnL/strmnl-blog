@@ -6,4 +6,5 @@ image: "cover.jpg"
 style:
     background: "#c15865"
     color: "#ffffff"
+draft: true
 ---
