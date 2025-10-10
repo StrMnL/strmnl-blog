@@ -5,7 +5,7 @@ author: StrMnL
 date: 2024-06-08
 lastmod: 2024-06-08T20:00:00+08:00
 tags: [FL Studio, 音频技术]
-categories: [tutorial]
+categories: [arrange]
 # draft: false
 image: "00_cover.png"
 slug: "20240608/fl-tips-1"

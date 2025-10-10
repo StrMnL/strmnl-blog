@@ -4,8 +4,8 @@ description: "关于 thbgm.dat、thbgm.fmt 和 musiccmt.txt "
 author: Starry
 date: 2023-07-01
 lastmod: 2025-10-04T21:25:39+08:00
-tags: [东方,音频技术,反编译]
-categories: [varia]
+tags: [东方,音频技术,反编译,数据结构]
+categories: [data-structure]
 # draft: false
 image: "cover.jpg"
 slug: "20230701001"

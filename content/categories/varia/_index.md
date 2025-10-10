@@ -1,6 +1,6 @@
 ---
-title: "Varia"
-description: "杂物。"
+title: "杂文"
+description: ""
 slug: "varia"
 image: "cover.jpg"
 style:

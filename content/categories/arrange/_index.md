@@ -1,7 +1,7 @@
 ---
-title: "Tutorial"
-description: "一些零碎的小教程。"
-slug: "tutorial"
+title: "编曲"
+description: "Arrangement"
+slug: "arrange"
 image: "cover.jpg"
 style:
     background: "#009999"
